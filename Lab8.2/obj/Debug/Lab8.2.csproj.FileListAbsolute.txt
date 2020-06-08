@@ -1,0 +1,19 @@
+C:\Users\Макс\source\repos\Lab8.2\Lab8.2\bin\Debug\Lab8.2.exe.config
+C:\Users\Макс\source\repos\Lab8.2\Lab8.2\bin\Debug\Lab8.2.exe
+C:\Users\Макс\source\repos\Lab8.2\Lab8.2\bin\Debug\Lab8.2.pdb
+C:\Users\Макс\source\repos\Lab8.2\Lab8.2\obj\Debug\Lab8.2.csprojAssemblyReference.cache
+C:\Users\Макс\source\repos\Lab8.2\Lab8.2\obj\Debug\Lab8._2.Form1.resources
+C:\Users\Макс\source\repos\Lab8.2\Lab8.2\obj\Debug\Lab8._2.Properties.Resources.resources
+C:\Users\Макс\source\repos\Lab8.2\Lab8.2\obj\Debug\Lab8.2.csproj.GenerateResource.cache
+C:\Users\Макс\source\repos\Lab8.2\Lab8.2\obj\Debug\Lab8.2.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\Lab8.2\Lab8.2\obj\Debug\Lab8.2.exe
+C:\Users\Макс\source\repos\Lab8.2\Lab8.2\obj\Debug\Lab8.2.pdb
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab8.2\Lab8.2\bin\Debug\Lab8.2.exe.config
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab8.2\Lab8.2\bin\Debug\Lab8.2.exe
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab8.2\Lab8.2\bin\Debug\Lab8.2.pdb
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab8.2\Lab8.2\obj\Debug\Lab8.2.csprojAssemblyReference.cache
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab8.2\Lab8.2\obj\Debug\Lab8._2.Properties.Resources.resources
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab8.2\Lab8.2\obj\Debug\Lab8.2.csproj.GenerateResource.cache
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab8.2\Lab8.2\obj\Debug\Lab8.2.exe
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab8.2\Lab8.2\obj\Debug\Lab8.2.pdb
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab8.2\Lab8.2\obj\Debug\Lab08_2.Form1.resources
