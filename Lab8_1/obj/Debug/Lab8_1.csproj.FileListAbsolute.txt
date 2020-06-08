@@ -1,0 +1,6 @@
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab8_1\Lab8_1\bin\Debug\Lab8_1.exe.config
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab8_1\Lab8_1\bin\Debug\Lab8_1.exe
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab8_1\Lab8_1\bin\Debug\Lab8_1.pdb
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab8_1\Lab8_1\obj\Debug\Lab8_1.csprojAssemblyReference.cache
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab8_1\Lab8_1\obj\Debug\Lab8_1.exe
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab8_1\Lab8_1\obj\Debug\Lab8_1.pdb
